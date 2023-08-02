@@ -219,6 +219,9 @@ body{
     .scores > div{
         font-size: .6em;
     }
+    .btn1,.btn2{
+        font-size: .5rem;
+    }
     
     .btn_ret{
         width: 280px;
